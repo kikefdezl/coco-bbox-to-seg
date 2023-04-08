@@ -1,6 +1,6 @@
 # BBOX to SEG with SAM
 
-This repo uses the Segment Anythin Model ([SAM](https://github.com/facebookresearch/segment-anything))
+This repo uses the Segment Anything Model ([SAM](https://github.com/facebookresearch/segment-anything))
 to automatically convert your bounding box dataset into a segmentation polygon 
 dataset. 
 
