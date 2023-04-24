@@ -1,6 +1,6 @@
-git+https://github.com/facebookresearch/segment-anything.git
-torch
-torchvision
-scikit-image
-tqdm
-numpy
+segment_anything @ git+https://github.com/facebookresearch/segment-anything.git
+torch==2.0.0
+torchvision==0.15.1
+scikit-image==0.20.0
+tqdm==4.65.0
+numpy==1.24.3
